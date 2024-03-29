@@ -1,0 +1,3 @@
+[submodule "BFX"]
+	path = BFX
+	url = https://github.com/LinDadaism/BrittleFractureSimulation.git
